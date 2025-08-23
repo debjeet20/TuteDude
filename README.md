@@ -1,3 +1,6 @@
+
+**Assignment 1 contains two scripts performing the below mentioned two  tasks**
+
 Task 1: Perform Basic Mathematical Operations
 Problem Statement: Python program that does the following:
 1.  Takes two numbers as input from the user.
@@ -7,7 +10,6 @@ Problem Statement: Python program that does the following:
 	 Multiplication
 	 Division
 3.  Displays the results of each operation on the screen.
-
 
    Task 2: Create a Personalized Greeting
 Problem Statement: Python program that:
